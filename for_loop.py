@@ -36,3 +36,7 @@ for pokey in pokemon:
         continue
 
     print(pokey)
+
+
+
+
