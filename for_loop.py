@@ -5,16 +5,16 @@
 #     1. Print numbers from 1 to 10
 # Write a program that prints numbers from 1 to 10 using a for loop.
 
+# for x in range(1,10):
+#     print(x)
+
 # 2. Print even numbers from 1 to 20
 # Modify the previous program to print only even numbers between 1 and 20.
 
 
-
-
 #  Print all odd numbers from 0 - 50.
 
-# for x in range(1,10):
-#     print(x)
+
 
 # for x in range(0,20,2):
 #     print(x)
