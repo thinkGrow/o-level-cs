@@ -27,3 +27,12 @@
 # for x in range(1,11):
     # print( num, "*", x, "=", num*x)
     # print(num*x)
+
+# continue - for loops
+
+pokemon = ['pikachu', 'charizard', 'gyarados', 'scyther', 'lugia', 'arceus']
+for pokey in pokemon:
+    if pokey != 'arceus':
+        continue
+
+    print(pokey)
