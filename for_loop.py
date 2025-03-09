@@ -16,7 +16,7 @@
 # for x in range(1,10):
 #     print(x)
 
-# for x in range(1,20,2):
+# for x in range(0,20,2):
 #     print(x)
 
 # 4. Print multiplication table
